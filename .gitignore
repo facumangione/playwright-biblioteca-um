@@ -1,0 +1,8 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+playwright-report/
+test-results/
+.DS_Store
